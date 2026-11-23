@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Kebijakan Privasi — TA Assistant Development
 
 **Terakhir diperbarui: 23 November 2026**
