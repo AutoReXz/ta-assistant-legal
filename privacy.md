@@ -71,6 +71,6 @@ Perubahan akan diumumkan melalui pembaruan halaman ini.
 
 Pengelola: TA Assistant Development
 
-Email: **[GANTI DENGAN EMAIL KONTAK AKTIF]**
+Email: **skypatrol45@gmail.com**
 
 Proyek ini dikembangkan untuk keperluan pembelajaran dan pengembangan teknologi AI. Layanan tidak mewakili institusi pendidikan tertentu kecuali dinyatakan secara resmi.

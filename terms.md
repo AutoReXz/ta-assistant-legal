@@ -50,4 +50,4 @@ Pengelola dapat memperbarui fitur, memperbaiki kesalahan, atau menghentikan laya
 
 Jika terdapat pertanyaan mengenai layanan, silakan menghubungi:
 
-**[GANTI DENGAN EMAIL KONTAK AKTIF]**
+**skypatrol45@gmail.com**

@@ -45,6 +45,6 @@ Untuk pengelolaan data yang disimpan secara terpisah oleh Meta atau Google, peng
 
 ## 5. Kontak
 
-Email: **[GANTI DENGAN EMAIL KONTAK AKTIF]**
+Email: **skypatrol45@gmail.com**
 
 Pengelola: TA Assistant Development
